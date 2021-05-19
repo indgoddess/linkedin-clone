@@ -1,4 +1,4 @@
-### Linkedin Clone App with React, Redux and Sytled Components
+# Linkedin Clone App with React, Redux and Sytled Components
 
 ## Hosted link - https://linkedin-clone-f5477.web.app/ 
 
