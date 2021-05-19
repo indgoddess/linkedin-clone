@@ -1,5 +1,7 @@
 ### Linkedin Clone App with React, Redux and Sytled Components
 
+## Hosted link - https://linkedin-clone-f5477.web.app/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![alt text](https://github.com/indgoddess/linkedin-clone/blob/master/linkedin01.PNG?raw=true)
