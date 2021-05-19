@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Linkedin Clone App with React, Redux and Sytled Components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
