@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![alt text](https://github.com/indgoddess/linkedin-clone/blob/master/linkedin01.PNG?raw=true)
 
-
+![alt text](https://github.com/indgoddess/linkedin-clone/blob/master/linkedin02.PNG?raw=true)
 
 ## Available Scripts
 
